@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Trader</string>
+    <string name="navigation_home">Cars</string>
+    <string name="navigation_compare">Compare</string>
+    <string name="no_cars_available">No cars available</string>
+    <string name="select_cars_to_compare">Select up to 3 cars to compare</string>
+    <string name="clear_all">Clear All</string>
+    <string name="compare">Compare</string>
+    <string name="car_comparison">Car Comparison</string>
+    <string name="max_cars_selected">Can only compare up to 3 cars</string>
+</resources>
